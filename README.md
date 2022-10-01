@@ -12,7 +12,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 **Tema ##.** Nombre del tema
 
 ## Referencias
-- Añadir referencia
+- Delgado Q., S. (2019). *Aprende Python*. aprende python_. https://aprendepython.es/core/introduction/
 - Añadir referencia
 
 ## Acerca del instructor
