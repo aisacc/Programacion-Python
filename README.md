@@ -12,7 +12,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu√
 **Tema ##.** Nombre del tema
 
 ## Referencias
-- Delgado, S. (2022, 1 abril). *Aprende Python*. https://aprendepython.es/core/introduction/
+- R Development Core Team. (2022). *The R Manuals*. https://cran.r-project.org/manuals.html
 - A√±adir referencia
 
 ## Acerca del instructor
