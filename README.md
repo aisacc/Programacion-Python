@@ -1,10 +1,10 @@
 # Python para Ingenierías y Ciencias
 
 ## Requisitos previos
-- Disponer de una licencia de MATLAB con la versión R2023a o cercana.
+- Ninguno. En este curso se explica todo desde cero y se realiza la instalación de todo lo necesario paso a paso.
 
 ## Material audiovisual
-Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias).
+Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/draft/5903058/?referralCode=6AC6E94087AB0132E7A7).
 
 ## Comunidad de Technica
 Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
@@ -12,59 +12,60 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZeO775TfoYk).
 
 ## Temas
-**Tema 00.** Introducción al Live Editor
+**Tema 00.** Introducción a Visual Studio Code y Jupyter Notebook
 
 **Tema 01.** Conceptos generales
 
-**Tema 02.** Tipos de datos: Números
+**Tema 02.** Tipos de datos - Números
 
-**Tema 03.** Estructuras de datos: Matrices
+**Tema 03.** Tipos de datos - Cadenas de texto
 
-**Tema 04.** Tipos de datos: Caracteres y cadenas
+**Tema 04.** Tipos de datos - Valores lógicos
 
-**Tema 05.** Tipos de datos: Valores lógicos
+**Tema 05.** Ingreso de datos por el usuario y visualización personalizada
 
-**Tema 06.** Ingreso de datos por el usuario y visualización personalizada
+**Tema 06.** Importación de librerías
 
-**Tema 07.** Ayuda y documentación de MATLAB
+**Tema 07.** Ayuda y documentación de Python
 
-**Tema 08.** Funciones internas
+**Tema 08.** Depuración y detección de errores
 
-**Tema 09.** Funciones matemáticas
+**Tema 09.** Estructuras de selección o condicionales
 
-**Tema 10.** Operaciones arreglo (elemento a elemento)
+**Tema 10.** Estructuras de repetición o bucles
 
-**Tema 11.** Operaciones matriciales
+**Tema 11.** Estructuras de datos - Listas
 
-**Tema 12.** Estructuras de datos: Tablas
+**Tema 12.** Estructuras de datos - Diccionarios
 
-**Tema 13.** Importación y exportación de datos
+**Tema 13.** Estructuras de datos - Tuplas
 
-**Tema 14.** Depuración y detección de errores
+**Tema 14.** Estructuras de datos - Conjuntos
 
-**Tema 15.** Estructuras de selección o condicionales
+**Tema 15.** Estructuras de datos - Dataframes - Librería `pandas`
 
-**Tema 16.** Estructuras de repetición o bucles
+**Tema 16.** Importación y exportación de datos - Librería `pandas`
 
-**Tema 17.** Scripts
+**Tema 17.** Estructuras de datos - ndarray - Librería `numpy`
 
-**Tema 18.** Creación de funciones
+**Tema 18.** Operaciones arreglo (elemento a elemento) - Librería `numpy`
 
-**Tema 19.** Funciones anónimas
+**Tema 19.** Operaciones matriciales - Librería `numpy`
 
-**Tema 20.** Gráficas
+**Tema 20.** Funciones internas
+
+**Tema 21.** Scripts
+
+**Tema 22.** Creación de funciones
+
+**Tema 23.** Funciones lambda - Librería `scipy`
+
+**Tema 24.** Gráficas - Librería `matplotlib`
 
 ## Referencias
-- Attaway, S. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
-- Gilat, A. (2006, 30 marzo). *Matlab: Una introducción con ejemplos prácticos*. Reverté.
-- MathWorks. (2023). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
-- Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
+- Delgado Q., S. D. (2024). *Aprende Python*.
 
-## Acerca del instructor
-- LinkedIn: [...]
-- Instagram: [...]
-
-## Acerca de la empresa
-- Facebook: [...]
-- Instagram: [...]
-- YouTube: [...]
+## Social media
+- Instagram: [Aisacc](https://www.instagram.com/aisacc__/)
+- YouTube: [Aisacc](www.youtube.com/@aisacc-me/)
+- LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
