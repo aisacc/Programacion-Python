@@ -1,4 +1,4 @@
-# Python para Ingenierías y Ciencias
+# Python para Ingenierías
 
 ## Requisitos previos
 - Ninguno. En este curso se explica todo desde cero y se realiza la instalación de todo lo necesario paso a paso.
