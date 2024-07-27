@@ -12,7 +12,7 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZeO775TfoYk).
 
 ## Temas
-**Tema 00.** Introducción a Visual Studio Code y Jupyter Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ICa2nh3mbflJCrJ4oKNUHWTZ9_vTJw8F?usp=sharing) **Tema 00.** Introducción a Visual Studio Code y Jupyter Notebook
 
 **Tema 01.** Conceptos generales
 
