@@ -1,4 +1,4 @@
-# Python para Ingenierías y Ciencias
+# Python para Ingenierías
 
 ## Requisitos previos
 - Ninguno. En este curso se explica todo desde cero y se realiza la instalación de todo lo necesario paso a paso.
@@ -66,6 +66,6 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Delgado Q., S. D. (2024). *Aprende Python*.
 
 ## Social media
-- Instagram: [Aisacc](https://www.instagram.com/aisacc__/)
-- YouTube: [Aisacc](www.youtube.com/@aisacc-me/)
+- Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
+- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
