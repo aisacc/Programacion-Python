@@ -66,6 +66,5 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Delgado Q., S. D. (2024). *Aprende Python*.
 
 ## Social media
-- Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
-- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
+- Instagram: [Isacc](https://www.instagram.com/aisacc.me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
